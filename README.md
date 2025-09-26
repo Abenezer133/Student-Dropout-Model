@@ -46,7 +46,7 @@ Why overfitting happens and how to watch out for it
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open the notebook in **Google Colab** (this repo includes a link).  
 2. Install dependencies:  
