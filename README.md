@@ -1,4 +1,4 @@
-# 🎓 Student Dropout Risk Prediction
+#  Student Dropout Risk Prediction
 
 This is my first applied machine learning project.  
 The idea was to see if simple student data can be used to predict who might be at risk of dropping out.  
@@ -6,7 +6,7 @@ I wanted to learn not only about models, but also about how to explain them.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - **Problem:** Many schools only notice dropout risk when it’s already too late.  
 - **Goal:** Build a small prototype model to flag students earlier.  
@@ -18,7 +18,7 @@ I wanted to learn not only about models, but also about how to explain them.
 
 ---
 
-## ⚙️ Features Used
+##  Features Used
 
 - `attendance_rate` → percentage of classes attended  
 - `avg_grade` → average grade across assignments/exams  
@@ -27,7 +27,7 @@ I wanted to learn not only about models, but also about how to explain them.
 
 ---
 
-## 📊 Results
+##  Results
 
 - **Logistic Regression (baseline):** F1 = **0.50**  
 - **XGBoost (best):** F1 = **1.0** (on this small dataset — probably overfitting)  
@@ -36,7 +36,7 @@ I wanted to learn not only about models, but also about how to explain them.
 
 *(Since the dataset was small and simulated, the XGBoost results look “too perfect.” In real life with bigger data, results would be more realistic.)*  
 
-🧠 **What I Learned**
+ **What I Learned**
 
 How to build and compare ML models (baseline vs advanced)
 
