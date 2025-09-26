@@ -44,7 +44,6 @@ The importance of explainability in sensitive applications like education
 
 Why overfitting happens and how to watch out for it
 
-How to evaluate model performance beyond accuracy (e.g. F1, precision@top%)
 ---
 
 ## 🚀 How to Run
